@@ -43,7 +43,7 @@ Diff split screen
 ### 4. p2-expressions.js
 [p2-expressions.js](p2-expressions.js)
 
-### 5. .gitignore (screenshot)
+### 5. refactor/.gitignore (screenshot)
 ![gitignore.png](gitignore.png)
 
 ### 6. p2-vscode-diff.png
