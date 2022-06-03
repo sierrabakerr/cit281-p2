@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Project 2
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-p2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Learning Objectives:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### After completing this project, you will:
 
-```markdown
-Syntax highlighted code block
+Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience writing and executing non-web server Node.js JavaScript code
 
-- Bulleted
-- List
+Practice refactoring JavaScript code
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Overview:
 
-[Link](url) and ![Image](src)
-```
+### Project elements:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
 
-### Jekyll Themes
+Refactor the JavaScript program from the previous project to practice using git and practice refactoring
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-p2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Use git via VSCode
 
-### Support or Contact
+Create and use a .gitignore file
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Diff split screen
+
+
+## Project Deliverables:
+
+### 1. p2-random.js
+[p2-random.js](p2-random.js)
+
+### 2. p2-random-files.txt
+[p2-random-files.txt](p2-random-files.txt)
+
+### 3. p2-random-commits.txt
+[p2-random-commits.txt](p2-random-commits.txt)
+
+### 4. p2-expressions.js
+[p2-expressions.js](p2-expressions.js)
+
+### 5. .gitignore (screenshot)
+![gitignore.png](gitignore.png)
+
+### 6. p2-vscode-diff.png
+![p2-vscode-diff.png](p2-vscode-diff.png)
+
+
+
