@@ -2,7 +2,6 @@
     CIT 281 Project 2
     Name: Sierra Baker
 */
-
 // Returns a random number of letters between min (inclusive) and max (exclusive)
 function getRandomInteger(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
